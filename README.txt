@@ -1,4 +1,5 @@
 path to the gituhub = "https://github.com/AlirezaHosseinzadeh67/201786265"
+Unzip the World_PVOUT_GISdata_LTAy_DailySum_GlobalSolarAtlas_GEOTIFF.zip file for accessing the Potential Solar Power raster file.
 
 TO CREATE A CONDA VIRTUAL ENVIRONMENT:
 - Open Anaconda Prompt
